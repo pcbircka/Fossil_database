@@ -1,4 +1,4 @@
-# Fossil_database
+# Fossil
 
 # 1. Общие сведения
 
